@@ -1,2 +1,1 @@
 # NiceList
-The nice list
